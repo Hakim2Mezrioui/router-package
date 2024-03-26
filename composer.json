@@ -2,7 +2,7 @@
     "name": "mezriouihakim/php-router",
     "description": "this is a simple router built during the php course",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "^7.3",
     "autoload": {
         "psr-4": {
             "Mezriouihakim\\PhpRouter\\": "src/"
